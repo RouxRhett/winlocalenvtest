@@ -1,1 +1,3 @@
 # winlocalenvtest
+windowsにてローカルのRails開発環境を構築しました。
+こちらのリポジトリはgithubのpushテストになります。
